@@ -7,7 +7,7 @@
   }
 
   body {
-    background-color: #2f2fb9;
+    background-color: #1d33c4;
     margin: 0 auto;
 
   }
@@ -17,14 +17,13 @@
 .full-header {
     display: flex;
     margin-bottom: 30px;
-    justify-content: space-between;
 }
 .tittle h1 {
     color: white;
     font-family: sans-serif;
 }
 .icons {
-    margin: 0 auto;
+    margin-left: 1000px;
 }
 #wrapper {
     display: grid;
@@ -36,7 +35,7 @@
 }
  .mans1-box {
     background-color: white;
-    color:  #2f2fb9;
+    color:  #1d33c4;
     text-align: center;
     grid-row-start: 1;
     grid-row-end: 3;
@@ -44,14 +43,14 @@
 }
 .resp-box {
     background-color: white;
-    color:  #2f2fb9;
+    color:  #1d33c4;
     grid-column-start: 2;
     grid-column-end: 3;
     text-align: center;
 }
 .over-box {
     background-color: white;
-    color:  #2f2fb9;
+    color:  #1d33c4;
     grid-column-start: 3;
     grid-column-end: 5;
     text-align: center;
@@ -59,35 +58,35 @@
 .fluid-box{
     text-align: center;
     background-color: white;
-    color:  #2f2fb9;
+    color:  #1d33c4;
     grid-row-start: 2;
     grid-row-end: 3;
 }
 .expl-box {
     background-color: white;
-    color:  #2f2fb9;
+    color:  #1d33c4;
     grid-row-start: 2;
     grid-row-end: 4;
     text-align: center;
 }
 .neg-box {
     background-color: white;
-    color:  #2f2fb9;
+    color:  #1d33c4;
     text-align: center;
 }
 .mans3-box {
     background-color: white;
-    color:  #2f2fb9;
+    color:  #1d33c4;
     text-align: center;
 }
 .flexible-box {
     background-color: white;
-    color:  #2f2fb9;
+    color:  #1d33c4;
     text-align: center;
 }
 .mans2-box {
     background-color: white;
-    color:  #2f2fb9;
+    color:  #1d33c4;
     text-align: center;
     grid-column-start: 2;
     grid-column-end: 3;
@@ -96,14 +95,14 @@
 }
 .dom-box {
     background-color: white;
-    color:  #2f2fb9;
+    color:  #1d33c4;
     text-align: center;
     grid-column-start: 1;
     grid-column-end: 2;
 }
 .named-box {
     text-align: center;
-    color:  #2f2fb9;
+    color:  #1d33c4;
     background-color: white;
     grid-column-start: 3;
     grid-column-end: 5;
