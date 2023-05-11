@@ -6,13 +6,14 @@
     box-sizing: border-box;
   }
 
-  body {
+body {
     background-color: #1d33c4;
     margin: 0 auto;
 
   }
 .container {
    margin: 0 auto;
+   max-width: 1440px;
 }
 .full-header {
     display: flex;
@@ -34,6 +35,7 @@
     grid-auto-rows: minmax(100px, auto);                    
 }
  .mans1-box {
+    padding: 100px;
     background-color: white;
     color:  #1d33c4;
     text-align: center;
@@ -42,6 +44,7 @@
     
 }
 .resp-box {
+    padding: 50px;
     background-color: white;
     color:  #1d33c4;
     grid-column-start: 2;
@@ -49,6 +52,7 @@
     text-align: center;
 }
 .over-box {
+    padding: 50px;
     background-color: white;
     color:  #1d33c4;
     grid-column-start: 3;
@@ -56,6 +60,7 @@
     text-align: center;
 }
 .fluid-box{
+    padding: 50px;
     text-align: center;
     background-color: white;
     color:  #1d33c4;
@@ -63,6 +68,7 @@
     grid-row-end: 3;
 }
 .expl-box {
+    padding: 100px;
     background-color: white;
     color:  #1d33c4;
     grid-row-start: 2;
@@ -70,21 +76,25 @@
     text-align: center;
 }
 .neg-box {
+    padding: 50px;
     background-color: white;
     color:  #1d33c4;
     text-align: center;
 }
 .mans3-box {
+    padding: 50px;
     background-color: white;
     color:  #1d33c4;
     text-align: center;
 }
 .flexible-box {
+    padding: 50px;
     background-color: white;
     color:  #1d33c4;
     text-align: center;
 }
 .mans2-box {
+    padding: 100px;
     background-color: white;
     color:  #1d33c4;
     text-align: center;
@@ -94,6 +104,7 @@
     grid-row-end: 5;
 }
 .dom-box {
+    padding: 50px;
     background-color: white;
     color:  #1d33c4;
     text-align: center;
@@ -101,6 +112,7 @@
     grid-column-end: 2;
 }
 .named-box {
+    padding: 50px;
     text-align: center;
     color:  #1d33c4;
     background-color: white;
